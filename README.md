@@ -2,5 +2,4 @@
 Project for the course "Network Science" (University of Tartu, 2021)
 # Dataset
 Data from ArnetMiner (https://www.aminer.cn/aminernetwork):
-AMiner-Coauthor
-AMiner-Author
+AMiner-Author and AMiner-Coauthor
